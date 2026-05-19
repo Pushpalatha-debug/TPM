@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>TPM Worship Music</title>
+  <title>THE PENTHECOSTAL MACHINE </title>
 
   <style>
 
@@ -162,7 +162,7 @@
   <!-- TPM LOGO -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png">
 
-  <h1>TPM WORSHIP</h1>
+  <h1>THE PENTECOSTAL MISSION </h1>
 
 </div>
 
@@ -201,6 +201,7 @@
         <option>Hindi</option>
         <option>English</option>
         <option>Tamil</option>
+        <option>Malayalam</option>
 
       </select>
 
@@ -222,7 +223,7 @@
 
         <img src="https://images.unsplash.com/photo-1504052434569-70ad5836ab65?q=80&w=800">
 
-        <h3>Hindi Worship</h3>
+        <h3>Hindi WorshIp</h3>
 
       </div>
 
